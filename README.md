@@ -35,6 +35,20 @@ This project is developed for learning and demonstration purposes, focusing on c
 
 ---
 
+### 🛤️ Demo Routes & Compartments
+
+#### 🚏 Available Demo Routes
+The system currently supports the following predefined demo routes:
+
+- **HWH → DGR**
+- **HWH → BDC**
+- **KOAA → PURI**
+- **DLI → Mumbai**
+
+These routes are fixed and used only for demonstration and testing purposes.
+
+---
+
 ## 📌 How It Works
 1. Guest users can browse the website without login.
 2. To book a ticket, users must register and log in.
